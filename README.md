@@ -8,7 +8,7 @@ images to 3D using basic image processing techniques, K mean clustering and marc
 cubes algorithm.
 
 # Data
-The objective of this project is to convert 2 D slices of ultrasound image to 3D. For this purpose we require ultrasound images.Ultrasound images of a conical frustum is taken using a linear ultrasound probe. There are 16 images, those are taken as data for this project.Few such images are shown below.
+The objective of this project is to convert 2 D slices of ultrasound image to 3D. For this purpose we require ultrasound images.Ultrasound images of a conical frustum is taken using a linear ultrasound probe. There are 16 images (only 3 images are publically posted in this repo as a sample), those are taken as data for this project.Few such images are shown below.
 
 
 ![uS](https://user-images.githubusercontent.com/85213549/149622467-5ff5004b-c6c7-40ad-bcb6-7eef933aa9c7.jpeg)
