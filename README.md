@@ -43,3 +43,18 @@ used to locate the beginnings of strong edge segments.
 ![Screenshot from 2022-01-05 18-35-05](https://user-images.githubusercontent.com/85213549/149622613-ccd204c7-3e29-41fe-9737-798c11fe5fbd.png)
 
 
+# How to run the code
+
+1. Clone the repository.
+2. Go inside the folder 
+3. Install requirements using command ```pip install requirements```
+4. Run the code 3D_plot.py in python 3 , ```python3 3D_plot.py```
+
+# About code base
+
+1. The ultrasound image data are stored in folder "data" in png format
+2. The filtered images are stored in folder "output"
+3. filter.py filter US images
+4. 3D_plot.py convert 2D into 3D
+5. data2.py is a point cloud file formed by running 3D_plot.py
+6. dummy.py run 3D reconstruction on dummy images
